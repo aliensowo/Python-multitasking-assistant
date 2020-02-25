@@ -18,12 +18,19 @@ If you have problems with PyAudio:
 Apps of Assistant:
 
   GUI {
+  
     1. __init__.py
+    
     2. manage.py
+    
     3. views.py
+    
     4. settings.py
+    
     5. models.py
+    
     6. tests.py
+    
     """ Work with kivy pakage """
   }
   
