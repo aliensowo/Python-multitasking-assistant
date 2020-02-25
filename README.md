@@ -10,4 +10,5 @@ If you have problems with PyAudio:
     4.Then ./configure && make
     5.Now do sudo make install
     6.Then upgrade pyaudio by sudo pip install pyaudio --upgrade
+    7. sudo apt-get install portaudio19-dev 
 
